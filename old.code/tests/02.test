@@ -1,0 +1,18 @@
+help
+! 7
+whoami
+! 2
+register Ahoten Ninja
+! 2
+whoami
+admin auth 4296
+! 4
+admin list users
+! 1
+admin list admins
+! 1
+> logoff
+! 5
+> logon
+! 5
+whoami

@@ -1,0 +1,7 @@
+# this is a comment
+admin auth 4296
+# these are sleep(..) declarations
+! 2
+admin list users
+! 2
+admin list admins
